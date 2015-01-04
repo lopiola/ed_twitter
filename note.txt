@@ -1,0 +1,3 @@
+Twitter is a bottomless source of web content, as data is published there by thousands of people every second. Thanks to its simplicity and availability, everyone can be a part of this enormous society. It allows to exchange opinions on various topics, share with other people, stay up to date with latest news and many more. 
+
+In this project, we decided to explore the use of Twitter by football fans and specialists. We have chosen an ideal moment for the survey - a football feast that is UEFA Champions League. Having gathered a huge amount of tweets posted during a single eliminations round, we continued to examine social dependencies that appeared in collected tweets.
